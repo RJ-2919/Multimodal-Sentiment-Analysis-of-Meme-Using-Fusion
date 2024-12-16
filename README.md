@@ -24,9 +24,6 @@ Ensure the following libraries are installed:
 - **Matplotlib**
 - **spaCy**
 
-Install them using:
-```bash
-pip install numpy pandas matplotlib spacy tensorflow
 ### Dataset
 This project uses a subset of the **Facebook Hateful Meme Dataset** (600 samples for feasibility in Colab). Ensure the following:
 - Meme images are stored in a folder (e.g., `images/`).
